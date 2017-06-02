@@ -5,7 +5,7 @@
   <artifactId>phantom-push-demo</artifactId>
   <packaging>war</packaging>
   <version>1.0.0-SNAPSHOT</version>
-  <name>demo Maven Webapp</name>
+  <name>phantom-push-demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
